@@ -1,0 +1,29 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pageRef = "posts/about"
+identifier = "zGE2YAk94f"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "https://privsec.dev"
+identifier = "ZygO3vLON0"
+weight = 2
+
+[[main]]
+name = "Projects"
+pageRef = "/posts/projects"
+identifier = "uePnrAHpNc"
+weight = 3
+
+[[main]]
+name = "Contact"
+pageRef = "/posts/contact"
+identifier = "lqA5Rh0hE9"
+weight = 4
+
+[[footer]]
+none = "none"

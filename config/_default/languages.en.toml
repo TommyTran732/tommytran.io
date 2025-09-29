@@ -1,0 +1,42 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Tommy's Space"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Tommy's personal website"
+
+[[params.author.links]]
+github = "https://github.com/TommyTran732"
+
+[[params.author.links]]
+gitlab = "https://git.metropolis.nexus/Tommy"
+
+[[params.author.links]]
+matrix = "https://matrix.to/#/@tommy:metropolis.nexus"
+
+[[params.author.links]]
+telegram = "https://t.me/tommytran732"
+
+[[params.author.links]]
+x-twitter = "https://x.com/TommyTran732"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/tommytran732"
+
+[[params.author.links]]
+email = "mailto:contact@tommytran.io"
+
+[[params.author.links]]
+pgpkey = "/tommy.asc"
+
+["params.author"]
+name = "Tommy Tran"
+bio = "System Administrator and Technical Writer"
+image = "avatar.png"
+headline = "System Administrator and Technical Writer"
