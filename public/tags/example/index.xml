@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Tommy Tran</title>
+    <link>//localhost:1313/tags/example/</link>
+    <description>Recent content in Example on Tommy Tran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Tommy Tran</copyright>
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hire Me!</title>
+      <link>//localhost:1313/posts/hire-me/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/hire-me/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/hire-me/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

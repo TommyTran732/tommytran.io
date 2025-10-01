@@ -25,5 +25,11 @@ pageRef = "/posts/contact"
 identifier = "lqA5Rh0hE9"
 weight = 4
 
+[[main]]
+name = "Hire Me!"
+pageRef = "/posts/hire-me"
+identifier = "jkB0Rl7UK9"
+weight = 5
+
 [[footer]]
 none = "none"

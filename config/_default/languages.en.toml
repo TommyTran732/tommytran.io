@@ -33,7 +33,7 @@ linkedin = "https://www.linkedin.com/in/tommytran732"
 email = "mailto:contact@tommytran.io"
 
 [[params.author.links]]
-pgpkey = "/tommy.asc"
+pgpkey = "/.well-known/pgp-key.txt"
 
 ["params.author"]
 name = "Tommy Tran"
