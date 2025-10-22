@@ -1,0 +1,21 @@
+/*
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), bluetooth=(),browsing-topics=(), camera=(), clipboard-read=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-create=self, publickey-credentials-get=self, screen-wake-lock=(), serial=(), speaker-selection=(), sync-xhr=(), usb=(), xr-spatial-tracking=()
+
+  Alt-Svc: h3=":443"; ma=86400
+
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+  Access-Control-Max-Age: 600
+
+  Referrer-Policy: same-origin
+
+  X-Content-Type-Options: nosniff
+  X-Permitted-Cross-Domain-Policies: none
+
+  X-XSS-Protection: 0
+
+  Content-Security-Policy: default-src 'none'; connect-src 'self'; img-src 'self'; manifest-src 'self'; script-src-attr 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline'; $style_src_type6; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests; base-uri 'none'
