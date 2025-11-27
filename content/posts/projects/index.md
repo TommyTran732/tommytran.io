@@ -66,6 +66,6 @@ My reverse proxy setup is available in [this repository](https://github.com/Metr
 
 My [QubesOS scripts](https://github.com/TommyTran732/QubesOS-Script) configure Qubes virtual machines with the same hardening as my Linux setup scripts, tailored for Qubes' unique environment. I also provide documentation on how I set up my daily driver — a ThinkPad P53 — with Qubes for maximum privacy and security.
 
-## Microsoft Egde Policies
+## Microsoft Edge Policies
 
 Microsoft Edge can be one of the best browsers when configured properly, but it is privacy-invasive and has a large attack surface by default. My [list of policies](https://github.com/TommyTran732/Microsoft-Edge-Policies) configures it for improved privacy and security.
