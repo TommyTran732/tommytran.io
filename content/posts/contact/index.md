@@ -5,7 +5,12 @@ date: 2022-09-02
 
 ## Matrix
 
-The best way to contact me is through Matrix. My account is [@tommy:metropolis.nexus](https://matrix.to/#/@tommy:metropolis.nexus). If you do not have a an account, you can sign up for one on my homeserver [metropolis.nexus](https://metropolis.nexus). I do not ask for your email address or any personal information for registration.
+The best way to contact me is through Matrix.
+
+- Primary account: [@tommy:metropolis.nexus](https://matrix.to/#/@tommy:metropolis.nexus)
+- Fallback account: [@tommy:grapheneos.org](https://matrix.to/#/@tommy:grapheneos.org)
+
+If you do not have a an account, you can sign up for one on my homeserver [metropolis.nexus](https://metropolis.nexus). I do not ask for your email address or any personal information for registration.
 
 ## Telegram
 
