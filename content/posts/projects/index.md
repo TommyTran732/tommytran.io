@@ -42,7 +42,7 @@ These [setup scripts](https://github.com/Metropolis-nexus/Linux-Setup-Scripts) a
 - Kernel module blacklist from [SecureBlue](https://github.com/secureblue/secureblue)
 - SSH client and server hardening
 - Systemd hardening
-- Installation of Hardened Malloc on Red Hat systems
+- Installation of `hardened_malloc` on Red Hat systems
 - NTS setup
 
 ### Fedora CoreOS Ignition Files
@@ -64,7 +64,7 @@ My reverse proxy setup is available in [this repository](https://github.com/Metr
 
 ## QubesOS scripts
 
-My [QubesOS scripts](https://github.com/TommyTran732/QubesOS-Script) configure Qubes virtual machines with the same hardening as my Linux setup scripts, tailored for Qubes' unique environment. I also provide documentation on how I set up my daily driver — a ThinkPad P53 — with Qubes for maximum privacy and security.
+My [Qubes OS scripts](https://github.com/TommyTran732/QubesOS-Scripts) configure Qubes virtual machines with the same hardening as my Linux setup scripts, tailored for Qubes' unique environment. I also provide documentation on how I set up my daily driver — a ThinkPad P53 — with Qubes for maximum privacy and security.
 
 ## Microsoft Edge Policies
 
