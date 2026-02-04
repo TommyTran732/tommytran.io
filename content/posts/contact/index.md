@@ -30,15 +30,22 @@ Please use encryption if possible. My PGP key is available [here](https://tommyt
 ### Discord
 - TommyTran732
 
+### Twitter
+
+- [@TommyTran732](https://twitter.com/tommytran732)
+- [@PrivSec_Dev](https://twitter.com/privsec_dev)
+
 ### Linkedin
 - [TommyTran732](http://linkedin.com/in/tommytran732)
 
 For employers, please see [Hire Me!](/posts/hire-me)
 
-### Twitter
+### Facebook & Instagram
+- TommyTran732
 
-- [@TommyTran732](https://twitter.com/tommytran732)
-- [@PrivSec_Dev](https://twitter.com/privsec_dev)
+I only use Meta services as a fallback communication method with my friends, so please do not send me any friend requests. I only list these here for identity verification purposes.
+
+Also, as of this writing (02/04/2026), Instagram E2EE is completely broken anyways, so there is really no point in contacting me there.
 
 ### Git accounts
 - [GitHub](https://github.com/tommytran732)
