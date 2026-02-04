@@ -10,6 +10,6 @@ I'm Thien, though you may know me as Tommy. With over five years of experience a
 
 Like most Linux users, I am an open source enthusiast and publish most of the projects made in my free time on [GitHub](https://github.com/tommytran732). I also made a couple of small contributions to various projets as well.
 
-I host several services, such as Matrix and Mastodon, free of charge. If you're curious, feel free to explore [Metropolis Nexus](https://metropolis.nexus), where you might find resources or services that suit your needs.
+I host several services, such as Matrix and Mastodon, free of charge. If you're curious, feel free to explore [Metropolis.nexus](https://metropolis.nexus), where you might find resources or services that suit your needs.
 
 Together with friends I connected with through GrapheneOS, I co-author a blog, [PrivSec.dev](https://privsec.dev), where we explore topics related to privacy and security. 
