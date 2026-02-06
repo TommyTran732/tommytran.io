@@ -62,7 +62,7 @@ My reverse proxy setup is available in [this repository](https://github.com/Metr
 - ModSecurity configuration
 - Systemd hardening for system services
 
-## QubesOS scripts
+## Qubes OS scripts
 
 My [Qubes OS scripts](https://github.com/TommyTran732/QubesOS-Scripts) configure Qubes virtual machines with the same hardening as my Linux setup scripts, tailored for Qubes' unique environment. I also provide documentation on how I set up my daily driver — a ThinkPad P53 — with Qubes for maximum privacy and security.
 
