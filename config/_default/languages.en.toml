@@ -15,7 +15,7 @@ description = "Tommy's personal website"
 github = "https://github.com/TommyTran732"
 
 [[params.author.links]]
-gitlab = "https://git.metropolis.nexus/Tommy"
+gitlab = "https://gitlab.metropolis.nexus/Tommy"
 
 [[params.author.links]]
 matrix = "https://matrix.to/#/@tommy:metropolis.nexus"
