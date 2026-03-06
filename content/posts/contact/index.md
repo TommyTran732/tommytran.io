@@ -49,6 +49,6 @@ Also, as of this writing (02/04/2026), Instagram E2EE is completely broken, so p
 
 ### Git accounts
 - [GitHub](https://github.com/tommytran732)
-- [Metropolis GitLab](https://git.metropolis.nexus/tommy)
+- [Metropolis GitLab](https://gitlab.metropolis.nexus/tommy)
 
 Please by wary of anyone claiming to be me or using the handle "TommyTran732" reaching out to you. Chances are, they are an impersonator. You can always contact me via Matrix or Email for identity verification.
