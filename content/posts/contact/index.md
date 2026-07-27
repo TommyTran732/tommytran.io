@@ -45,8 +45,6 @@ For employers, please see [Hire Me!](/posts/hire-me)
 
 I only use Meta services as a fallback communication method with my real life friends. Please do not send me any friend requests unless I really know you. I only list these here for identity verification purposes.
 
-Also, as of this writing (02/04/2026), Instagram E2EE is completely broken, so please do not send me an encrypted message on Instagram as I will not actually receive it.
-
 ### Git accounts
 - [GitHub](https://github.com/tommytran732)
 - [Metropolis GitLab](https://gitlab.metropolis.nexus/tommy)
